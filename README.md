@@ -9,16 +9,16 @@ En términos de recomendaciones de inversión, se ha observado que las empresas 
 Profundizando en el análisis de los datos utilizados para el análisis los cuales van del 2000 a la actualidad en el 2023 se pudieron observar bajo diversas métricas y análisis usando la tasa de retorno y la media móvil anual observando las tendencias a corto, mediano y largo plazo con concluyo en 3 diferentes recomendaciones las cuales son de tipo conservador, moderado y arriesgado.
 
 ### Conservador: Se recomienda invertir en las top 10 empresas por capitalización de mercado, esto debido a que son compañías de gran magnitud y que aunque el crecimiento pueda verse limitado o el retorno no sea tan elevado a corto plazo, son la mejor opción por su estabilidad tanto por la capacidad como por los sectores a los que pertenecen los cuales son los mas estables. Las compañías son:
-•	 Apple (AAPL)
-•	 Microsoft (MSFT)
-•	 Amazon (AMZN)
-•	 NVIDIA (NVDA)
-•	 Alphabet Class A (GOOGL)
-•	 Alphabet Class C (GOOG)
-•	 Tesla (TSLA): 
-•	 UnitedHealth Group (UNH)
-•	 Meta (META)
-•	 Exxon Mobil(XOM)
+- Apple (AAPL)
+- Microsoft (MSFT)
+- Amazon (AMZN)
+- NVIDIA (NVDA)
+- Alphabet Class A (GOOGL)
+- Alphabet Class C (GOOG)
+- Tesla (TSLA): 
+- UnitedHealth Group (UNH)
+- Meta (META)
+- Exxon Mobil(XOM)
 
 ### Moderado: Se recomienda un hacer una inversión mixta entre empresas del top 10 por capitalización de mercado y el top 10 empresas con mayor tasa de rendimiento ya que las compañías con mayor capitalización nos dan estabilidad mientras las que tienen una mayor tasa de rendimiento nos generan mayores ingresos a corto plazo pero al tener una mayor volatilidad presentan un mayor riesgo a la hora de invertir. Las empresas recomendadas son:
 -	Old Dominion
